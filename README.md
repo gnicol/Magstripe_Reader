@@ -21,4 +21,4 @@ be more reliable though.
 Hardware Used:
 * Ardweeny with FTDI adapter
 * Magtek three track reader model 21050145
-** http://www.magtek.com/documentation/public/99821101-6.03.pdf
+ * http://www.magtek.com/documentation/public/99821101-6.03.pdf
