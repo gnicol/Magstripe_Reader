@@ -1,5 +1,6 @@
 #define MAX_BYTES    200
 
+// define three track TTL reader inputs and card present pins
 #define CARD_PRESENT 2
 #define TRACK1_CLOCK 3
 #define TRACK1_DATA  4
